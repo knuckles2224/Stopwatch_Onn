@@ -13,6 +13,7 @@
 		3D28028D23FFB5E800CDD4B8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3D28028B23FFB5E800CDD4B8 /* Main.storyboard */; };
 		3D28028F23FFB5EF00CDD4B8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3D28028E23FFB5EF00CDD4B8 /* Assets.xcassets */; };
 		3D28029223FFB5EF00CDD4B8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3D28029023FFB5EF00CDD4B8 /* LaunchScreen.storyboard */; };
+		3D28029A2400A47200CDD4B8 /* Stopwatch.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D2802992400A47200CDD4B8 /* Stopwatch.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		3D28028E23FFB5EF00CDD4B8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3D28029123FFB5EF00CDD4B8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3D28029323FFB5EF00CDD4B8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3D2802992400A47200CDD4B8 /* Stopwatch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Stopwatch.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				3D28028523FFB5E800CDD4B8 /* AppDelegate.swift */,
 				3D28028723FFB5E800CDD4B8 /* SceneDelegate.swift */,
 				3D28028923FFB5E800CDD4B8 /* ViewController.swift */,
+				3D2802992400A47200CDD4B8 /* Stopwatch.swift */,
 				3D28028B23FFB5E800CDD4B8 /* Main.storyboard */,
 				3D28028E23FFB5EF00CDD4B8 /* Assets.xcassets */,
 				3D28029023FFB5EF00CDD4B8 /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				3D28028A23FFB5E800CDD4B8 /* ViewController.swift in Sources */,
 				3D28028623FFB5E800CDD4B8 /* AppDelegate.swift in Sources */,
 				3D28028823FFB5E800CDD4B8 /* SceneDelegate.swift in Sources */,
+				3D28029A2400A47200CDD4B8 /* Stopwatch.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
