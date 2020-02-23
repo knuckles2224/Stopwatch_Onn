@@ -15,6 +15,10 @@
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="jeremy-thomas-rMmibFe4czY-unsplash.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="LXl-u0-ZiC">
+                                <rect key="frame" x="20" y="29" width="374" height="833"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="JFU-zN-OzP">
                                 <rect key="frame" x="104" y="407" width="90" height="72"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
@@ -55,7 +59,7 @@
                                 <rect key="frame" x="62" y="85" width="290" height="148"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="50"/>
-                                <color key="textColor" systemColor="systemTealColor" red="0.35294117650000001" green="0.7843137255" blue="0.98039215690000003" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <color key="textColor" cocoaTouchSystemColor="tableCellGroupedBackgroundColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
                         </subviews>
@@ -71,4 +75,7 @@
             <point key="canvasLocation" x="95.652173913043484" y="135.26785714285714"/>
         </scene>
     </scenes>
+    <resources>
+        <image name="jeremy-thomas-rMmibFe4czY-unsplash.jpg" width="3456" height="5184"/>
+    </resources>
 </document>
