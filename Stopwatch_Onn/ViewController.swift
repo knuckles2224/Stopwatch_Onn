@@ -33,6 +33,7 @@ class ViewController: UIViewController {
         
         //set isRunning to false and call stop func
         stopwatch.isRunning = false
+        stopwatch.time = 0
         stopwatch.stop()
     }//end stopButtonTapped
     

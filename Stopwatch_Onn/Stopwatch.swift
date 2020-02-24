@@ -33,11 +33,7 @@ class Stopwatch {
         let minutes:Int = (time / 600) % 60 // 60 seconds pass, divide by 10 * 60
         let milliseconds:Int = (time) % 10
         return String(format: "%02d:%02d:%01d" , minutes ,seconds, milliseconds)
-        //return String(format: "%02.f:%02.f:%1.1f" , elapsedTime.truncatingRemainder(dividingBy: 59),
-                      //elapsedTime.truncatingRemainder(dividingBy: 59), elapsedTime) //<- this converts time elapsed to string
-        //need variables for minutes, seconds , milliseconds
 
-       // return(String)(milliseconds)
     }//end elapsed time as string
     
     func start() {

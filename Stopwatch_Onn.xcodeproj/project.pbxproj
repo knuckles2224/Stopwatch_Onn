@@ -14,7 +14,6 @@
 		3D28028F23FFB5EF00CDD4B8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3D28028E23FFB5EF00CDD4B8 /* Assets.xcassets */; };
 		3D28029223FFB5EF00CDD4B8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3D28029023FFB5EF00CDD4B8 /* LaunchScreen.storyboard */; };
 		3D28029A2400A47200CDD4B8 /* Stopwatch.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D2802992400A47200CDD4B8 /* Stopwatch.swift */; };
-		3D28029E24027FA400CDD4B8 /* jeremy-thomas-rMmibFe4czY-unsplash.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3D28029D24027FA300CDD4B8 /* jeremy-thomas-rMmibFe4czY-unsplash.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,7 +26,6 @@
 		3D28029123FFB5EF00CDD4B8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3D28029323FFB5EF00CDD4B8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3D2802992400A47200CDD4B8 /* Stopwatch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Stopwatch.swift; sourceTree = "<group>"; };
-		3D28029D24027FA300CDD4B8 /* jeremy-thomas-rMmibFe4czY-unsplash.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "jeremy-thomas-rMmibFe4czY-unsplash.jpg"; path = "../../../../jeremy-thomas-rMmibFe4czY-unsplash.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -44,7 +42,6 @@
 		3D28027923FFB5E800CDD4B8 = {
 			isa = PBXGroup;
 			children = (
-				3D28029D24027FA300CDD4B8 /* jeremy-thomas-rMmibFe4czY-unsplash.jpg */,
 				3D28028423FFB5E800CDD4B8 /* Stopwatch_Onn */,
 				3D28028323FFB5E800CDD4B8 /* Products */,
 			);
@@ -133,7 +130,6 @@
 			files = (
 				3D28029223FFB5EF00CDD4B8 /* LaunchScreen.storyboard in Resources */,
 				3D28028F23FFB5EF00CDD4B8 /* Assets.xcassets in Resources */,
-				3D28029E24027FA400CDD4B8 /* jeremy-thomas-rMmibFe4czY-unsplash.jpg in Resources */,
 				3D28028D23FFB5E800CDD4B8 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
